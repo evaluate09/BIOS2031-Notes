@@ -17,7 +17,7 @@
 ### <u>Polyneoptera</u> (Exopterygote) - 11 orders
 - <u>Orthopteroid orders</u> - grasshoppers, earwigs, stoneflies, footspinners, praying mantids, termites, roaches
 - Still contentious and ill-defined; expansion of the anal region of the hind wing
-![Enlarged Anal Lobe in Hindwing](enlarged-anal-lobe-hindwing.png)
+![Enlarged Anal Lobe in Hindwing](Images/enlarged-anal-lobe-hindwing.png)
 ### <u>Paraneoptera</u> (Exopterygote) - 4 orders
 - Hemipteroid orders - book lice, lice, thrips and bugs
 - Labial palps reduced/absent, mandibles asymmetrical, maxillary laciniae elongated, abdominal ganglia fused
