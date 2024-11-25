@@ -74,12 +74,12 @@
 	- Tagmosis has given them a competitive advantage and is central to their successful diversification and occupation of most habitats on the planet
 	- Development of tagma may be correlated to <u>Hox genes</u> which control segmental patterning during development
 
-![[Insect Tagmosis.png]]
+![[Images/Insect Tagmosis.png]]
 
 ## External Anatomy
 ### Head
 - Concerned with feeding, sensory perception
-![[Insect Head.png]]
+![[Images/Insect Head.png]]
 #### Mouthparts
 ###### Main Mouthparts
 - <u>Labrum</u> = top lip, forms the top roof of the mouth cavity
@@ -99,9 +99,9 @@
 	- Ectoparasites = existing outside the organism, endoparasites = existing inside the organism
 	- <u>Hyperparasitism</u> = parasites of parasites, e.g. wasps can parasitise other wasps that parasitise other invertebrates
 ##### Feeding Modes
-![[Insect mouthparts.png]]
+![[Images/Insect mouthparts.png]]
 ###### Biting/chewing
-![[Biting chewing mouth parts.png]]
+![[Images/Biting chewing mouth parts.png]]
 - Also called <u>mandibulate</u> mouthparts
 - Predators, herbivores, scavengers, parasites can have biting/chewing mouthparts
 - Handle and chew solid food
@@ -132,13 +132,13 @@
 - Order of insects includes:
 	- Thrips (Thysanoptera)
 	- True bugs (Hemiptera)
-		![[Piercing mouthparts.png]]
+		![[Images/Piercing mouthparts.png]]
 		- In bugs, the mandible and maxillae are elongated into <u>stylets</u>, which are interlocked into a food canal 
 			- Through capillary action, fluid transfers from the food source → oral cavity
 		- Most true bugs consume plant fluids to target xylem and phloem vessels
 			- E.g. scale insects are farmed by ants which keep the scale insects safe and in exchange the ants receive honeydew from the scale insects
 	- Some flies (Diptera)
-		![[Mosquito mouthparts.png]]
+		![[Images/Mosquito mouthparts.png]]
 		- In mosquitoes, all mouthparts are elongated but the main component is the labium; unlike the bugs it does not house the elongated maxillae and mandibles
 			- Consume animal fluids, vectors for many diseases including malaria, dengue fever, yellow fever, etc.
 	- Fleas (Siphonaptera)
@@ -147,14 +147,14 @@
 		- Family Cimicidae - human bedbug, *Cimex lectularis*
 			- Piercing mouthparts that feed on blood so the female can reproduce afterwards
 	- Moths & butterflies (Lepidoptera)
-		![[butterfly mouth.png]]
+		![[Images/butterfly mouth.png]]
 		- Butterflies consume nectar
 		- For moth and butterfly adults, they do not need to bite to feed on nectar so the <u>galea</u> component of the maxillae are modified into sucking mouthparts
 		- Labium is still palp-like
 		- These are curled at rest → <u>haustellate</u> mouthparts
 			- When uncoiled these mouthparts are very long
 	- Bees (Hymenoptera)
-		![[bee mouth.png]]
+		![[Images/bee mouth.png]]
 		- Also consume nectar 
 		-  Still have broad mandibles but the maxillae and labium are greatly elongated
 - Elongation of mouthparts forming a <u>proboscis/rostrum</u>
@@ -164,8 +164,8 @@
 * Insect releases saliva onto solid food to liquefy it → labellum absorbs liquid food
 * Mostly true flies (Diptera)
 - Sponge-like structure for mouths
-	![[sponging mouthpart.png]]
-	![[spongelike electron micrograph.png]]
+	![[Images/sponging mouthpart.png]]
+	![[Images/spongelike electron micrograph.png]]
 
 #### Eyes and Ocelli
 - Visual system of insects mainly dominated by compound eyes but there are 2 other light gathering structures:
@@ -173,7 +173,7 @@
 - Most larval and adult insects have a pair of large compound eyes placed laterally on the head
 	- Aside from some insects that live in caves or termites and ant nests
 	- Compound eyes are composed of many individual units called <u>ommatidia</u>
-	![[compound eye diagram.png]]
+	![[Images/compound eye diagram.png]]
 	- Eyes can occupy most of the head in some insects such as dragonflies, which have 30,000 ommatidia per eye (e.g. dragonflies)
 	- Each <u>ommatidium</u> is a lens system
 		- Composed of a transparent cuticular lens overlying a <u>crystalline cone</u> which focuses the light onto 8 elongated retina-like cells (<u>retinula cells</u>)
@@ -191,7 +191,7 @@
 		- Thought to be ‘horizon detectors’, controlling roll and pitch during flight
 
 #### Antennae
-![[insect antennae.png]]
+![[Images/insect antennae.png]]
 - Hexapods have a pair of antennae which are movable and segmented
 - Primitively possess 8 segments although these segments can be fused or subdivided; some insects have up to 50 segments
 	- <u>Scape</u> = basal antennal segment
@@ -206,7 +206,7 @@
 ### Thorax
 - Concerned with movement, locomotion, flight
 - Each of the 3 thoracic segments bears a pair of legs
-		![[insect thorax segments.png]]
+		![[Images/insect thorax segments.png]]
 	- <u>Prothorax</u> = anterior most segment of the thorax, bears the first legs/prolegs/forelegs
 	- <u>Mesothorax</u> = middle segment, bears the first pairs of wings & the second pair of legs/midlegs
 	- <u>Metathorax</u> = posterior most segment, bears the hind wings & the hind legs
@@ -216,7 +216,7 @@
 		- Midlegs have the prefix meso, e.g. mesocoxae, mesofemora
 		- Hindlegs have the prefix meta, e.g. metacoxae, metafemora
 	- Exoskeleton of the thorax is box-like and accomodates both the legs and wings + the enlarged musculature required to move them
-		![[grasshopper thorax.png]]
+		![[Images/grasshopper thorax.png]]
 		- Usually heavily sclerotised (hardened)
 		- Enlarged cavities on the side of the body that houses the leg
 #### Wings
@@ -229,7 +229,7 @@
 	- Wings are an adult character
 	- Wing bugs are present in larval hemimetabolous (partial metamorphosis) insects
 ##### Wing Types
-![[wing types.png]]
+![[Images/wing types.png]]
 - Dragonflies have two large wings, the hindwing without an anal lobe, complex venation and multiple cross veins
 - <u>Tegmina</u> = roaches (Blattodea) have leathery protective forewings and have complex venation but without cross veins
 - <u>Hemelytron</u> (pl. hemelytra) = true bugs (Hemiptera) have their forewings divided into a hard proximal part and a soft membraneous distal part
@@ -244,7 +244,7 @@
 - Almost all insects have 3 pairs of legs
 	- Some insects, particularly the larvae, have become greatly specialised, occupying microhabitats where legs are of little use and can thus be secondarily lost
 - The leg is divided into six segments
-	![[insect leg.png]]
+	![[Images/insect leg.png]]
 	- <u>Coxa</u> (pl. coxae) = most often cone like, point of articulation with the wall of the thorax, has varying degrees of mobility depending on the insect group
 	- <u>Trochanter</u> (pl. trochanters) = articulate the coxa to the femur
 	- <u>Femur</u> (pl. femora) = generally small in larval insects, but in most adult insects is the largest and most robust segment of the leg
@@ -265,10 +265,10 @@
 - Forelegs greatly enlarged and forefemora greatly enlarged often with teeth for grasping prey
 	- <u>Raptorial</u> = seizing prey
 - Leg types evolve independently in many insect groups
-	![[insect legs for digging.png]]
+	![[Images/insect legs for digging.png]]
 	- Each of the above species have independently evolved the shovel like tibiae (segment in gold) and the tarsi are reduced in the bottom 4 insects - convergence in character states
 ### Abdomen
-![[insect abdomen.png]]
+![[Images/insect abdomen.png]]
 - 11 segments, although the first is often reduced
 - <u>Pregenital abdomen</u> = first 7 segments in females and the first 8 segments in males
 - <u>Terminalia</u> = segments past the pregenital, house the male and female genitalia
@@ -279,19 +279,19 @@
 - Most are <u>oviparous</u> = egg laying
 
 #### Male reproductive system - external
-![[insect male reproductive system.png]]
+![[Images/insect male reproductive system.png]]
 - Composed of the 9th abdominal segment which is often produced into a genital capsule, with an opening from which the intromittent organ (penis/aedeagus) is <u>everted</u> (turned outward)
 ## Internal Anatomy
 ### Circulatory system
-![[insect dorsal vessel.png]]
-![[insect circulatory system.png]]
+![[Images/insect dorsal vessel.png]]
+![[Images/insect circulatory system.png]]
 - Open circulatory system, no closed vessels as in vertebrates
 - <u>Haemolymph</u> (insect blood) = moves freely around the body organs
 - Pattern of blood flow is determined by peristaltic contractions of the longitudinal <u>dorsal vessel</u> (analogous to a heart)
 - Longitudinal contractions of the dorsal vessel pumps haemolymph to the head
 - Haemolymph/blood does not carry oxygen - transports nutrients, wastes, hormones
 ### Tracheal system
-![[respiration in fleas.png]]
+![[Images/respiration in fleas.png]]
 - Gaseous exchange refers to the gain of oxygen and elimination of carbon dioxide
 - <u>Tracheal system</u> = gaseous exchange occurs through a network of tubes formed by invagination of the body wall
 	- <u>Invagination</u> = infolding of a portion of the outer layer of a blastula in the formation of a gastrula
@@ -300,8 +300,8 @@
 - Up to 10 pairs of spiracles on pleuron of thorax and abdomen
 
 ### Digestive system
-![[insect gut cross section.png]]
-![[major components of insect guts.png]]
+![[Images/insect gut cross section.png]]
+![[Images/major components of insect guts.png]]
 - Insect guts are usually straight, divided into foregut, midgut and hindgut
 - Foregut and hindgut lined with cuticle (like the exoskeleton)
 - Midgut produces peritrophic membrane
@@ -314,9 +314,9 @@
 - the CNS is composed of ganglia joined by longitudinal nerve chords called <u>connectives</u>
 - Primitively, there are two <u>ganglia</u> per segment
 - Most derived insects have the <u>ganglia</u> fused into a single mass
-![[cross section of insect somite.png]]
+![[Images/cross section of insect somite.png]]
 - Each somite is divided into a dorsal <u>tergite</u>, lateral <u>pleuron</u> and the ventral <u>sternite</u>
-![[insect nervous system.png]]
+![[Images/insect nervous system.png]]
 - In primitive insects, there are head, thoracic and abdominal ganglia with paired connectives
 	- Increasingly, the ganglia became fused so in advanced insects the thoracic and abdominal ganglia are fused into the compound ganglia
 
@@ -327,7 +327,7 @@
 	- Moulting fluid contains digestive enzymes which break down the cuticle
 	- Old cuticle is then shed (<u>ecdysis</u>) and the new body is freed
 	- Splitting of the old cuticle follows a typical pattern
-			![[splitting of old cuticle.png]]
+			![[Images/splitting of old cuticle.png]]
 		- Occurs along the midline of the body typically and the next stadium emerges dorsally from the previous instar
 	- Blood is then pumped forward in the body and into the limbs
 	- When the body has been unfolded and fully expanded, the new procuticle is sclerotised (hardened)
@@ -340,11 +340,11 @@
 - Metamorphosis occurs between last larval stage and adult, with marked change in body form
 - The final instar of insects with determinate growth is the adult/imago
 ### Growth Patterns
-![[hemimetabolous development.png]]
+![[Images/hemimetabolous development.png]]
 - <u>Instar/stadium</u> = each larval period
 - <u>Stadia/stadium</u> = pupal and adult stages
 - <u>Hemimetabolous</u> - egg → 5 larval instars → adult
-	![[incomplete metamorphosis growth.png]]
+	![[Images/incomplete metamorphosis growth.png]]
 	- Also known as <u>incomplete metamorphosis</u>
 	- Larvae are known as <u>nymphs</u>
 	- Larvae have similar morphology to adults but lack wings and genitalia
